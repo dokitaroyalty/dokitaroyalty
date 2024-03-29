@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dokitaroyalty
 - 👀 I’m interested in data sceince
-- 🌱 I’m currently learning pythnn for data analytics
+- 🌱 I’m currently learning python for data analytics
 - 💞️ I’m looking to collaborate on learning, relearning and unlearning.
 - 📫 How to reach me 
 
