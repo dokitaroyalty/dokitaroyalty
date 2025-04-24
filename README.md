@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dokitaroyalty
-- 👀 I’m interested in data sceince
-- 🌱 I’m currently learning Excel, PowerB, SQL, R and Python for data analytics
-- 💞️ I’m looking to collaborate on learning, relearning and unlearning.
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Excel, PowerBI, R, and Python for data analytics
+- 💞️ I want to collaborate on learning, relearning, and unlearning.
 - 📫 How to reach me 
 
 <!---
